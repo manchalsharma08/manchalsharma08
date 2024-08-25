@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @manchal Sharma
-- 👀 I’m interested in technology
+- 👋 Hi, I’m @manchal Sharma.
+- 👀 I’m interested in technology.
 - 🌱 I’m currently diving into the world of Kubernetes, navigating its vast landscape of containers and clusters.
 - 💞️ I’m looking to collaborate on a project that combines our skills and expertise to achieve innovative solutions.
 - 📫 You can drop me a message via email at sharmamanchal0216@gmail.com 
